@@ -16,7 +16,7 @@ if (!$conn) {
 
 function do_select($conn,$query) {
 // echo $user." ".$pass." ".$sid;
-// $conn = oci_connect('system', 'sn0wflak3_mvcopy9', 'mvcopy');
+// $conn = oci_connect('system', 'password', 'mvcopy');
 // $conn = oci_connect($user, $pass, $sid);
 
 echo "<table class=\"table-bordered table-responsive table-striped\">\n";
