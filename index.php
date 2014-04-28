@@ -70,7 +70,7 @@
     });
     </script>
  <?php
-/*$conn = oci_connect('system', 'sn0wflak3_mvcopy9', 'mvcopy');
+/*$conn = oci_connect('system', ''password, 'mvcopy');
 if (!$conn) {
     $e = oci_error();
     trigger_error(htmlentities($e['message'], ENT_QUOTES), E_USER_ERROR);
